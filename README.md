@@ -1,2 +1,2 @@
 # gsikalos-python-projects
-A quick game of Choose your own adventure to practice if else statements and get a feel for python
+Learning Python.  I will upload projects in the works and completed projects as well.
